@@ -10,4 +10,5 @@ http://localhost:8080/student/getBook/java
 
 Histrix Circuit Breaker-
 http://localhost:8094/getSchoolDetails/abc
+
 Hystrix Dashboard - http://localhost:8094/hystrix.stream
