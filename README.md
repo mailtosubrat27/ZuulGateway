@@ -12,3 +12,11 @@ Histrix Circuit Breaker-
 http://localhost:8094/getSchoolDetails/abc
 
 Hystrix Dashboard - http://localhost:8094/hystrix.stream
+
+
+
+
+Doubts - 
+1- How to remove hard code service url in rest call - basically we read it from properties file
+2- How service registry helps(Eureka service)
+
